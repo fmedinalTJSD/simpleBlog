@@ -1,6 +1,5 @@
 This is a message.
-
-this is the second modification of the file that I made
-
-this is the third modification of the file
+Random line to prove the characteristics of GIT.
 I'm adding a fourth line to the file.
+
+Message its been written.
