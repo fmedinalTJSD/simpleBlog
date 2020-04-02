@@ -9,8 +9,6 @@
                 
 ----
 
-**First repository created to know how to use this tool**
-
 
 ###Curso
 
